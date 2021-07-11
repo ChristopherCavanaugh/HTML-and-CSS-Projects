@@ -442,4 +442,7 @@ button:hover, .form-container .btn:hover {
     -webkit-transition-duration: 1s;
     border-color: black;
 }
+.about-text {
+    font-size: 20px;
+}
 /* End of Contact Form Styling */
